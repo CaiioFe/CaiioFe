@@ -52,6 +52,7 @@ Hoje eu vivo em três frentes:
 | **[Comanda Espeto](https://github.com/CaiioFe/comanda-espeto-app)** | Comanda digital pra espetaria: pedidos, cozinha e recibo | React · Supabase |
 | **[MotoGP City Guide](https://github.com/CaiioFe/motogp-city-guide)** | Guia completo da cidade pro MotoGP em mais de 8 idiomas | React · i18n |
 | **[Pokédex](https://github.com/CaiioFe/pokedex)** | Pokédex retrô consumindo a PokéAPI, projeto por diversão | React · PokéAPI |
+| **[Prumo](https://arqprumo.com.br)** | Sistema de gestão de obras: despesas, financiamentos, andamento e tarefas por pessoa, usado em produção por um escritório de arquitetura | React · TanStack Start · Supabase |
 
 ## 🛠️ Como eu trabalho
 
