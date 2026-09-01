@@ -40,7 +40,7 @@ Hoje eu vivo em três frentes:
 
 | Produto | O que é | Stack |
 |---|---|---|
-| **[CaptaRadar](https://github.com/CaiioFe/capta-radar)** | Radar de captação imobiliária: monitora portais, filtra imóvel de dono direto, score de urgência e mensagem de abordagem por IA · [demo ao vivo](https://capta-radar.vercel.app) | JS puro · Chart.js · Vercel |
+| **[Garagem dos Sertões](https://github.com/CaiioFe/garagem-do-sertao)** | Perfil de cada equipe e veículo do Rally dos Sertões 2026, com resultado oficial por etapa direto da cronometragem · [garagemsertao.vercel.app](https://garagemsertao.vercel.app) | React · Supabase |
 | **[Sales Connector](https://github.com/CaiioFe/sales-connector)** | CRM completo: WhatsApp, e-mail, funil B2B e B2C, financeiro consolidado | React · Supabase · Edge Functions |
 | **Prospecta** | Viabilidade econômica de incorporação imobiliária: fluxo de caixa multifásico, financiamentos SFH e associativo, DRE e sensibilidade, em produção numa incorporadora | Python · FastAPI · Supabase |
 | **[FitResults](https://github.com/CaiioFe/fitresults)** | App completo de academia e treinos, produto que vendeu bem no mercado | React · Supabase |
