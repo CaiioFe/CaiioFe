@@ -41,6 +41,7 @@ Hoje eu vivo em três frentes:
 | Produto | O que é | Stack |
 |---|---|---|
 | **[Sales Connector](https://github.com/CaiioFe/sales-connector)** | CRM completo: WhatsApp, e-mail, funil B2B e B2C, financeiro consolidado | React · Supabase · Edge Functions |
+| **Prospecta** | Viabilidade econômica de incorporação imobiliária: fluxo de caixa multifásico, financiamentos SFH e associativo, DRE e sensibilidade, em produção numa incorporadora | Python · FastAPI · Supabase |
 | **[FitResults](https://github.com/CaiioFe/fitresults)** | App completo de academia e treinos, produto que vendeu bem no mercado | React · Supabase |
 | **[MoneyZap](https://github.com/CaiioFe/moneyzap)** | SaaS de finanças pessoais com separação PF/PJ, vendido a cliente · [moneyzap.app](https://www.moneyzap.app) | React · Supabase |
 | **[CV Ninja](https://github.com/CaiioFe/cv-ninja)** | Ajuste de currículo para vagas com IA, em PT e EN, com export em PDF | IA · React · Supabase |
