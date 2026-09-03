@@ -49,7 +49,7 @@ Hoje eu vivo em três frentes:
 | **[Approva](https://github.com/CaiioFe/approva)** | Gestão corporativa de gastos com fluxo de aprovação de pagamentos | React · Supabase |
 | **[Assist](https://github.com/CaiioFe/assist)** | Tarefas, hábitos, água e humor num só lugar, com gamificação | React · Supabase |
 | **[Área de Membros](https://github.com/CaiioFe/area-de-membros)** | Plataforma própria pra cursos e comunidade, estilo Cademi | React · Supabase |
-| **[NutriCoach](https://github.com/CaiioFe/nutricoach)** | App de nutricionista: dieta, peso e evolução de pacientes | React · Supabase |
+| **[Iron Coach](https://github.com/CaiioFe/ironcoach-journey)** | App de acompanhamento nutricional feito sob medida pra Iron Nutrição Esportiva: dieta, evolução, treino e gamificação | React · TypeScript |
 | **[Shopper](https://github.com/CaiioFe/shopper)** | Controle de compras com comparação de preços entre mercados | React · Supabase |
 | **[Comanda Espeto](https://github.com/CaiioFe/comanda-espeto-app)** | Comanda digital pra espetaria: pedidos, cozinha e recibo | React · Supabase |
 | **[MotoGP City Guide](https://github.com/CaiioFe/motogp-city-guide)** | Guia completo da cidade pro MotoGP em mais de 8 idiomas | React · i18n |
